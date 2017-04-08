@@ -1,0 +1,19 @@
+div{
+	background: #ff9000;
+}
+
+#Cabecera{
+	height: 120px;
+	overflow: auto;
+	text-align: left;
+}
+
+#Lateral{
+	width: 50%;
+	margin-left: 0.5em;
+}
+
+#Destacado{
+	margin: 2em;
+	padding: 0.5em;
+}

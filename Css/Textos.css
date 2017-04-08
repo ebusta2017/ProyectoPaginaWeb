@@ -1,0 +1,28 @@
+a,.Destacado{
+	color: red;
+}
+
+a.Link{
+	color: magenta;
+}
+
+.Aviso{
+	padding: 0.3em;
+	border: 1px: solid #98be10;
+	background:#f6feda;
+	width: 100%;
+}
+
+.Error{
+	color:#930;
+	font-weight: bold; 
+}
+
+.error,.Destacado{
+	font-size: 30px;
+}
+
+.Especial{
+	font-weight: bold;
+	font-size: 15px;
+}
