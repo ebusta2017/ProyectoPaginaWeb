@@ -107,3 +107,32 @@ h2{
     text-align: left; 
     font-size: 40px;
 }
+
+
+.Caja1{
+    height: 120px;
+    overflow: auto;
+    text-align: left;
+}
+
+.Caja2{
+    background: #ff9000;
+    width: 50%;
+    margin-left: 0.5em;
+}
+
+.Caja3{
+    background: #ff9000;
+    margin: 2em;
+    padding: 0.5em;  
+}
+
+.Destacado1{
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.Destacado2{
+    font-weight: bold;
+    font-size: 18px; 
+}
