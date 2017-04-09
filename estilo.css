@@ -16,7 +16,7 @@ body{
     border-style:solid;
     background-image:url(imagen/Background.jpg);
     width: 23%;
-    height: 630px;
+    height: 850px;
     color: white;
     margin-left: 20px;
     margin-right: auto;
@@ -124,7 +124,13 @@ h2{
 .Caja3{
     background: #ff9000;
     margin: 2em;
-    padding: 0.5em;  
+    padding: 0.5em;
+    overflow: auto;
+}
+
+.Imagen2{
+        float: left;
+        padding: 1em;
 }
 
 .Destacado1{
