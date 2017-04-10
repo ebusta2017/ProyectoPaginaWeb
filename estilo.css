@@ -5,7 +5,7 @@
 
 *{    
     border-color:white;
-    border-radius: 12px;     
+    border-radius: 12px;
 }
 
 body{
@@ -16,7 +16,7 @@ body{
     border-style:solid;
     background-image:url(imagen/Background.jpg);
     width: 23%;
-    height: 850px;
+    height: 860px;
     color: white;
     margin-left: 20px;
     margin-right: auto;
@@ -66,14 +66,13 @@ p {
 
 .navegacion {
     float: right;
-    top: 15px;
+    top: 35px;
     right: 35px;
     text-align:center;
     height:35px;
     position:relative;
     width: 90px;
     margin-bottom: -40px;
-        
 }
 	
 .navegacion a span {
@@ -94,7 +93,7 @@ Section{
     border-style:solid;
     background-color:rgba(255,255,255,0.5);
     width: 70%;
-    height: 615px;
+    height: 900px;
     padding: 0px 10px 10px 20px;
     margin-left: auto;
     margin-right: 20px;
@@ -107,7 +106,6 @@ h2{
     text-align: left; 
     font-size: 40px;
 }
-
 
 .Caja1{
     height: 120px;
@@ -128,6 +126,24 @@ h2{
     overflow: auto;
 }
 
+.Caja4{
+    background: #277F9F;
+    font-size: 12px;
+    color: #FFFFFF;
+    margin: 6em;
+    padding: 0.5em;
+    overflow: auto;
+}
+
+.Caja5{
+    background: #7A950E;
+    font-size: 12px;
+    color: #FFFFFF;
+    margin: 4em;
+    padding: 0.5em;
+    overflow: auto;
+}
+
 .Imagen2{
         float: left;
         padding: 1em;
@@ -141,4 +157,20 @@ h2{
 .Destacado2{
     font-weight: bold;
     font-size: 18px; 
+}
+
+.Link{
+    font-size: 12px;
+    color: black;
+}
+
+a.Link{
+    color: #62ADFF;
+}
+
+#Video, video {
+margin: 0 auto;
+padding-top: 20px;
+width: 450px;
+height: 350px;
 }
