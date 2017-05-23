@@ -16,7 +16,7 @@ body{
     border-style:solid;
     background-image:url(imagen/Background.jpg);
     width: 23%;
-    height: 860px;
+    height: 1000px;
     color: white;
     margin-left: 20px;
     margin-right: auto;
@@ -156,7 +156,7 @@ h2{
 .Caja7{
     background: #7A950E;
     color: #FFFFFF;
-    width: 60%;
+    width: 65%;
     margin: 2.5em;
     text-align: center;
     padding: 0.5em;
@@ -188,7 +188,7 @@ a.Link{
 
 #Video, video {
 margin: 0 auto;
-padding-top: 20px;
-width: 450px;
-height: 350px;
+padding-top: 10px;
+width: 650px; 
+height: 450px;
 }
